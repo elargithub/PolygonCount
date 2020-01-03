@@ -1,0 +1,11 @@
+/home/ubu/workspace/CsTut/PolygonCount/bin/Debug/netcoreapp2.2/PolygonCount.deps.json
+/home/ubu/workspace/CsTut/PolygonCount/bin/Debug/netcoreapp2.2/PolygonCount.runtimeconfig.json
+/home/ubu/workspace/CsTut/PolygonCount/bin/Debug/netcoreapp2.2/PolygonCount.runtimeconfig.dev.json
+/home/ubu/workspace/CsTut/PolygonCount/bin/Debug/netcoreapp2.2/PolygonCount.dll
+/home/ubu/workspace/CsTut/PolygonCount/bin/Debug/netcoreapp2.2/PolygonCount.pdb
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.csprojAssemblyReference.cache
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.csproj.CoreCompileInputs.cache
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.AssemblyInfoInputs.cache
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.AssemblyInfo.cs
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.dll
+/home/ubu/workspace/CsTut/PolygonCount/obj/Debug/netcoreapp2.2/PolygonCount.pdb
